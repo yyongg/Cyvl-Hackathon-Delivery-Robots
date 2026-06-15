@@ -7,8 +7,6 @@ feasibility score, then renders it as an interactive web map.
 
 Built for the Cyvl Hackathon.
 
-![tiers: green = robot-ready, yellow = marginal, red = infeasible](https://img.shields.io/badge/tiers-green%20%7C%20yellow%20%7C%20red-22c55e)
-
 ---
 
 ## How it works

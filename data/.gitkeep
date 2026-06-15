@@ -1,0 +1,3 @@
+# This directory holds large input data (LiDAR .laz, Cyvl GeoJSON layers) that
+# is intentionally NOT committed to git. See the project README → "Data" for how
+# files are fetched/placed here. This .gitkeep keeps the empty folder in the repo.

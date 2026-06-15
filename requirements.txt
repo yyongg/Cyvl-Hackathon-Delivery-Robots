@@ -1,0 +1,14 @@
+# Python dependencies for the feasibility pipeline (run_pipeline.py / pipeline/).
+# Install with:  pip install -r requirements.txt
+
+geopandas>=0.14
+pandas>=2.0
+numpy>=1.24
+requests>=2.31
+
+# LiDAR point-cloud reading (Step 3)
+laspy[lazrs]>=2.5
+
+# Fast radius queries for LiDAR sampling (optional but strongly recommended;
+# the pipeline falls back to a brute-force search if scipy is absent).
+scipy>=1.11
